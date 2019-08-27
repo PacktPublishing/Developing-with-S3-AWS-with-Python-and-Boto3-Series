@@ -1,5 +1,3 @@
-# Developing-with-S3-AWS-with-Python-and-Boto3-Series
-Code repository for Developing with S3: AWS with Python and Boto3 Series, Published by Packt
 # Developing with S3: AWS with Python and Boto3 Series
 This is the code repository for [Developing with S3: AWS with Python and Boto3 Series](https://www.packtpub.com/application-development/hands-artificial-intelligence-keras-and-python-video?utm_source=github&utm_medium=repository&utm_campaign=9781838557829), published by [Packt](https://www.packtpub.com/?utm_source=github). It contains all the supporting project files necessary to work through the video course from start to finish.
 ## About the Video Course
